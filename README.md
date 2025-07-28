@@ -1,6 +1,5 @@
 - Hi, I’m @Croft2BMax
-- I’m interested in Web Development and web design.
-- I’m currently learning Web programming.
+- I’m interested in Web Development and Artificial Intelligence.
 - How to reach me : aidhasalsabilla03@gmail.com
 
 <!---
